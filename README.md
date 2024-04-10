@@ -3,8 +3,7 @@
 Primeiro exercício: 
   1.1 - Realizar um resumo contendo os principais insights dos 3 primeiro capítulos do livro entitulado: Designing               Machine Learning Systems, de Chip Huyen.
 
-![A Importância do Machine Learning e suas Aplicação em Produção Industrial]
-(https://github.com/alessandropequeno/Aprendizado-de-Maquina-2024.1/blob/main/Resumo%20de%20ML.pdf).
+![A Importância do Machine Learning e suas Aplicação em Produção Industrial](https://github.com/alessandropequeno/Aprendizado-de-Maquina-2024.1/blob/main/Resumo%20de%20ML.pdf).
 
 Segundo exercício: 
   2.1 - Desenvolver 3 paragráfos do artigo "O impacto social dos modelos de fundações abertas".
