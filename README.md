@@ -16,7 +16,7 @@
   
   2.2 - Realizar um resumo contendo os 10 principais insights do capilo 4 do livro entitulado: Designing Machine                 Learning System, de Chip Huyen.
   
-  ![atividade 2-Resumo cap4.pdf](https://github.com/alessandropequeno/Aprendizado-de-Maquina-2024.1/blob/main/atividade%202-Resumo%20cap4.pdf).
+ ![atividade 2-Resumo cap4.pdf](https://github.com/alessandropequeno/Aprendizado-de-Maquina-2024.1/blob/main/atividade%202-Resumo%20cap4.pdf).
 ----------------------------------------------------------------------------------------------------------------
 
 ### Terceiro exercício:
