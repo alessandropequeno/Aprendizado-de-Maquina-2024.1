@@ -30,6 +30,6 @@
 Machine Learning Systems: An Iterative Process for Production-Ready
 Applications, Chip Huyen".
 
-  ![Resumo: Capítulo 5 - Engenahria de Recursos](https://github.com/alessandropequeno/Aprendizado-de-Maquina-2024.1/blob/main/resumo%20do%20capitulo%205.pdf).
+  ![Resumo: Capítulo 5 - Engenharia de Recursos](https://github.com/alessandropequeno/Aprendizado-de-Maquina-2024.1/blob/main/resumo%20do%20capitulo%205.pdf).
   
 
